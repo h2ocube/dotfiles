@@ -1,0 +1,16 @@
+*.log
+*.swp
+*.pid
+log/*
+Thumbs.db
+public/assets
+.sass-cache
+.DS_Store
+*.sublime-workspace
+.powder
+public/assets
+/db/schema.rb
+tmp/cache/*
+public/uploads/*
+tmp/data
+tmp/*.txt
